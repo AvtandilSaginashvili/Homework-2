@@ -1,0 +1,37 @@
+body {
+    background-color: #1F314F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+h1 {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1f314f;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+}
+.main {
+    background-color: white;
+    height: 497px;
+    width: 320px;
+    border-radius: 20px;
+    padding: 16px;
+}
+
+img {
+    padding: 60px;
+    border-radius: 10px;
+}
+.main2 {
+    border-radius: 10px;
+    height: 288px;
+    background-color: #1F314F;
+}
